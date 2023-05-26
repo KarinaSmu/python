@@ -31,7 +31,7 @@ print(f" {count} раз встретилось {num} число ")
 
 print("Введите длину массива")
 m = int(input())
-print("задумайте число:)")
+print("загадайте число:)")
 number = int(input())
 list_2=[random.randint(-100,100) for i in range(m)]
 print(list_2)
