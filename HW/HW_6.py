@@ -32,3 +32,5 @@ max = int(input())
 array1=[random.randint(0,10) for i in range(20)]
 print(array1)
 print(indexsearch(array1,min,max))
+
+# Ввожу какой то ненужный комментарий :)
