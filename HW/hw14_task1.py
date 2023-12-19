@@ -182,7 +182,6 @@ if __name__ == "__main__":
 
     print(f"r3 width: {r3.width}, height: {r3.height}")
     print(f"r4 width: {r4.width}, height: {r4.height}")
-
     print(f"r3 perimeter: {r3.perimeter()}, area: {r3.area()}")
     print(f"r4 perimeter: {r4.perimeter()}, area: {r4.area()}")
 
